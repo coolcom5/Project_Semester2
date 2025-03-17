@@ -1,5 +1,5 @@
 # enter a number and double it
-# Author: Michael
+# Author: Michael McMahon
 # DATE: 17/2/25
 # Program to enter a number and then output it doubled
 
