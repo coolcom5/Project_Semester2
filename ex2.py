@@ -1,5 +1,5 @@
 # Ex2.py
-# Enter a name and convert to uppercase
+# Enter a name and convert to uppercase. For Testing GitHub
 # Author: Michael McMahon
 # DATE: 17/2/25
 
